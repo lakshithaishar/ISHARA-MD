@@ -6,7 +6,7 @@ MY FIRST OWN BOT
 </div>
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff0000&center=true&vCenter=true&multiline=false&lines=`CREATED BY LAKSHITHA ISHARA`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff0000&center=true&vCenter=true&multiline=false&lines=`CREATED- BY- LAKSHITHA -ISHARA`" alt="">
 
 <h3>🍁 How To Deploy </h3>
 
