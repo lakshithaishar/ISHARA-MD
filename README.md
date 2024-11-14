@@ -12,7 +12,7 @@ A simple bot created by Lakshitha Ishara🍁🌴😊
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=#ff0000&center=true&vCenter=true&multiline=false&lines=`LAKSHITHA-ISHARA-MD`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff0000&center=true&vCenter=true&multiline=false&lines=`LAKSHITHA-ISHARA-MD`" alt="">
 
 ------------
 
