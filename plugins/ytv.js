@@ -26,19 +26,24 @@ const url = data.url
 const ytdl = await fetchJson(`${apilink}/download/ytmp3?url=${data.url}`)
     
 let message = `‎‎
-╭═══🎶❃ *SILENT-SOBX-MD-MUSIC-DOWNLOADER* ❃🎶═══⊷
-┃❃╭──────────────
-┃❃│🎵 ‎TITLE: ${data.title}
-┃❃│ ⏱ DURATION: ${data.timestamp}
-┃❃│🌏 UPLOADED: ${data.ago}
-┃❃│🧿 VIEWS: ${data.views}
-┃❃│🤵 AUTHOR: ${data.author.name}
-┃❃│📎 URL: ${data.url}
-┃❃╰───────────────
-╰═════════════════⊷
-> © ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³² 👩‍💻
+╭═══ 🍁*ISHARA-MD-MUSIC-DOWNLOADER*🍁 ═══⊷
 
-> ↺ |◁   II   ▷|   ♡
+🎵 ‎TITLE: ${data.title}
+
+⏱ DURATION: ${data.timestamp}
+
+🌏 UPLOADED: ${data.ago}
+
+🧿 VIEWS: ${data.views}
+
+🤵 AUTHOR: ${data.author.name}
+
+📎 URL: ${data.url}
+
+
+> © ᴄʀᴇᴀᴛᴇᴅ ʙʏ Lakshitha ISHARA🍁 👩‍💻
+
+> ^_____^
 `
   
 await conn.sendMessage(from, { image: { url : data.thumbnail }, caption: message }, { quoted : mek })
@@ -70,24 +75,24 @@ let search = await yts(q)
 let link = search.all[0].url
 let desc = `
 *╭──────────●●►*
-_*♻️ SILENT-SOBX-MD VIDEO DOWNLOADER ♻️*_
+_*🍁 ISHARA-MD VIDEO DOWNLOADER ♻️*_
 *╰──────────●●►*
 
- *♻️ TITLE:* ${search.all[0].title}
+ *🐱 TITLE:* ${search.all[0].title}
 
- *♻️ DESCRIPTION:* ${search.all[0].description}
+ *🐱 DESCRIPTION:* ${search.all[0].description}
 
- *♻️ DURATION:* ${search.all[0].timestamp}
+ *🐱 DURATION:* ${search.all[0].timestamp}
 
- *♻️ AGO:* ${search.all[0].ago}
+ *🐱 AGO:* ${search.all[0].ago}
 
- *♻️ VIEWS:* ${search.all[0].views}
+ *🐱 VIEWS:* ${search.all[0].views}
 
- *♻️ URL:* ${search.all[0].url}
+ *🐱 URL:* ${search.all[0].url}
 
-> © ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³² 👩‍💻
+> © ᴄʀᴇᴀᴛᴇᴅ ʙʏ Lakshitha ISHARA🍁 👩‍💻
 
-> ↺ |◁   II   ▷|   ♡
+> ^_____^
 `
 
 await conn.sendMessage(from,{image:{url: search.all[0].thumbnail},caption:desc},{quoted:mek})
