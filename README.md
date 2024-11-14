@@ -1,5 +1,5 @@
 # 🍁ISHARA-MD😊🧡🌴
-MY FIRST OWN BOT
+A simple bot created by Lakshitha Ishara🍁🌴😊
 <div align="center">
 	<h3>🍁ISHARA-MD🍁</h3>
 <img src="https://i.ibb.co/G08q1Pp/kakashi-cyberpunk-ninja-hd-wallpaper-uhdpaper-com-319-2-b.jpg">
