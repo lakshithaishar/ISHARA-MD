@@ -27,163 +27,146 @@ async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, send
 try{
 let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
-⇆ ʜɪɪ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ ⇆
+❁ ════ ❃•◯•❃ ════ ❁
 
-     ${pushname}
+*⇆ ʜɪɪ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ ⇆*
+
+     *${pushname}*
      
-╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
+❁ ════ ❃•◯•❃ ════ ❁
+
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
-      ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ISHARA-MD ғᴜʟʟ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ
+      *ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ISHARA-ᴍᴅ ғᴜʟʟ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ*
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ᴄʀᴇᴀᴛᴇᴅ ʙʏ LAKSHITHA ISHARA🧡
 
-┌─〈 ${config.BOT_NAME} 〉─◆
-│╭─────────────···▸
-┴│▸
-❖│▸ ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}
-❖│▸ ʀᴀᴍ ᴜsᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
-❖│▸ ɴᴀᴍᴇ ʙᴏᴛ : ❖ISHARA-MD❖
-❖│▸ ᴄʀᴇᴀᴛᴏʀ : LAKSHITHA ISHARA
-❖│▸ ᴠᴇʀsɪᴏɴs : ᴠ.1.0.0
-❖│▸ ᴍᴇɴᴜ ᴄᴍᴅ : ᴍᴇɴᴜ ʟɪsᴛ
-┬│▸
-│╰────────────···▸▸
-└──────────────···▸
-♡︎•━━━━━━☻︎━━━━━━•♡︎
 
-╭────❒⁠⁠⁠⁠ 📥*DOWNLOADER-CMD* 📥 ❒⁠⁠⁠⁠ 
-┋ .ғʙ <ᴜʀʟ>
-┋ .ɪɴꜱᴛᴀ <ᴜʀʟ>
-┋ .ᴠɪᴅᴇᴏ <ᴜʀʟ>
-┋ .ɢᴅʀɪᴠᴇ <ᴜʀʟ>
-┋ .ᴛᴡɪᴛᴛᴇʀ <ᴜʀʟ>
-┋ .ᴛᴛ<ᴜʀʟ>
-┋ .ᴍᴇᴅɪᴀғɪʀᴇ <ᴜʀʟ>
-┋ .ꜱᴏɴɢ <ϙᴜᴇʀʏ>
-┋ .ᴘʟᴀʏ <ᴜʀʟ>
-┋ .ᴠɪᴅᴇᴏ <ϙᴜᴇʀʏ>
-┋ .ᴠɪᴅᴇᴏ <ᴜʀʟ>
-┋ .ɪᴍɢ <ϙᴜᴇʀʏ>
-┋ .ᴀᴘᴋ <ɴᴀᴍᴇ>
-┋ .xᴠɪᴅᴇᴏ <ᴛɪᴛᴛʟᴇ>
-┕───────────────────❒
+*╭──❮ DOWNLOAD S ❯*
+│
+│🍁: .play
+│🌴Download Audio from yt
+│ 
+│🍁: .song
+│🌴Download song from yt
+│ 
+│🍁: .apk
+│🌴Download apk from playstore
+│ 
+│🍁: .video
+│🌴Download video from yt
+│ 
+│🍁: .fb
+│🌴Download  video from fb
+│ 
+│🍁: .tk
+│🌴Download video from tiktok
+│ 
+│🍁: .ig
+│🌴Download video from ig
+│ 
+│🍁: .gdrive
+│🌴Download drive files
+│ 
+│🍁: .wamod
+│🌴Download wamod apk
+│
+│🍁: .img
+│🌴Download image
+│
+│🍁: .xvideo
+│🌴Download xxx video
+╰────────────⦁ 
 
-╭────❒⁠⁠⁠⁠ 🔎 *SEARCH-CMD* 🔍 ❒⁠⁠⁠⁠ 
-┋ .ʏᴛꜱ  <ᴛᴇxᴛ>
-┋ .ʟᴏʟɪ <ᴛᴇxᴛ>
-┋ .ᴍᴏᴠɪᴇ <ᴛᴇxᴛ>
-┋ .ɪᴍɢ <ᴛᴇxᴛ>
-┋ .ᴡᴇᴀᴛʜᴇʀ <ᴄɪᴛʏ>
-┕───────────────────❒
+*╭──❮ SEARCH S ❯*
+│
+│🍁: .yts
+│🌴Serch videos from yt
+╰────────────⦁  
 
-╭────❒⁠⁠⁠⁠ 🧠 *AI-CMD* 🧠 ❒⁠⁠⁠⁠ 
-┋ .ɢᴘᴛ <ᴛᴇxᴛ>
-┋ .ᴀɪ <ᴛᴇxᴛ>
-┕───────────────────❒
+*╭──❮‍ MAIN S ❯*
+│
+│🍁: .alive
+│🌴Check online or not
+│  
+│🍁: .ping
+│🌴Check bot speed
+│  
+│🍁: .menu
+│🌴Nero main menu
+│
+│🍁: .menu2
+│🌴Nero main menu2
+│ 
+│🍁: .ai
+│🌴chat with ai bot
+│
+│🍁: .system
+│🌴check bot systems
+│
+│🍁: .owner
+│🌴get owner info
+│ 
+│🍁: .status
+│🌴check bot runtime
+╰────────────⦁
 
-╭────❒⁠⁠⁠⁠ 👨‍💻 *OWNER-CMD* 👨‍💻 ❒⁠⁠⁠⁠ 
-┋ .ᴜᴘᴅᴀᴛᴇᴄᴍᴅ
-┋ .ᴏᴡɴᴇʀ
-┋ .ʀᴇᴘᴏ
-┋ .ꜱʏꜱᴛᴇᴍ
-┋ .ꜱᴛᴀᴛᴜꜱ
-┋ .ʙʟᴏᴄᴋ
-┋ .ᴜɴʙʟᴏᴄᴋ
-┋ .sʜᴜᴛᴅᴏᴡɴ
-┋ .ᴄʟᴇᴀʀᴄʜᴀᴛs
-┋ .sᴇᴛᴘᴘ
-┋ .ʙʀᴏᴀᴅᴄᴀsᴛ
-┋ .ᴊɪᴅ
-┋ .ɢᴊɪᴅ
-┋ .ʀᴇꜱᴛᴀʀᴛ
-┕───────────────────❒
+*╭──❮ OTHER S ❯*
+│
+│🍁: .hirunews/news
+│🌴Get news result for life
+│ 
+│🍁: .wabeta
+│🌴Get whatsapp beta news
+│
+│🍁: .sitech
+│🌴Get tech news
+│ 
+│🍁: .nasa
+│🌴Get nasa news
+╰────────────⦁
 
-╭────❒⁠⁠⁠⁠ 👥 *GROUP-CMD* 👥 ❒⁠⁠⁠⁠ 
-┋ .ʀᴇᴍᴏᴠᴇ <ʀᴇᴘʟʏ ғᴏʀ ᴅᴇʟᴇᴛᴇ sᴍs>
-┋ .ᴅᴇʟᴇᴛᴇ <ʀᴇᴘʟʏ ғᴏʀ ᴅᴇʟᴇᴛᴇ sᴍs>
-┋ .ᴀᴅᴅ
-┋ .ᴋɪᴄᴋ
-┋ .sᴇᴛɢᴏᴏᴅʙʏᴇ <ᴛᴇxᴛ>
-┋ .sᴇᴛᴡᴇʟᴄᴏᴍᴇ <ᴛᴇxᴛ>
-┋ .ᴘʀᴏᴍᴏᴛᴇ
-┋ .ᴅᴇᴍᴏᴛᴇ
-┋ .ᴛᴀɢᴀʟʟ
-┋ .ɢᴇᴛᴘɪᴄ
-┋ .ɪɴᴠɪᴛᴇ
-┋ .ʀᴇᴠᴏᴋᴇ
-┋ .ᴊᴏɪɴʀᴇǫᴜᴇsᴛs
-┋ .ᴀʟʟʀᴇǫ
-┋ .ᴍᴜᴛᴇ
-┋ .ᴜɴᴍᴜᴛᴇ
-┋ .ʟᴏᴄᴋɢᴄ
-┋ .ᴜɴʟᴏᴄᴋɢᴄ
-┋ .ʟᴇᴀᴠᴇ
-┋ .ᴜᴘᴅᴀᴛᴇɢɴᴀᴍᴇ
-┋ .ᴜᴘᴅᴀᴛᴇɢᴅᴇsᴄ
-┋ .ᴊᴏɪɴ
-┋ .ʜɪᴅᴇᴛᴀɢ
-┋ .ɢɪɴғᴏ
-┋ .ᴅɪsᴀᴘᴘᴇᴀʀ ᴏɴ
-┋ .ᴅɪsᴀᴘᴘᴇᴀʀ ᴏғғ
-┋ .ᴅɪsᴀᴘᴘᴇᴀʀ 7ᴅ 24ʜ 90ᴅ
-┋ .sᴇɴᴅᴅᴍ
-┕───────────────────❒
+*╭──❮ GROUP S ❯*
+│
+│🍁: .mute
+│🌴Mute group
+│
+│🍁: .unmute
+│🌴Unmute group
+│
+│🍁: .left
+│🌴left group
+│
+│🍁: .jid
+│🌴group jid
+╰────────────⦁
 
-╭────❒⁠⁠⁠⁠ 📃 *INFO-CMD* 📃 ❒⁠⁠⁠⁠ 
-┋ .ᴍᴇɴᴜ
-┋ .ᴍᴇɴᴜ2
-┋ .ᴍᴇɴᴜ3
-┋ .ᴀʙᴏᴜᴛ
-┋ .sᴄʀɪᴘᴛ
-┋ .ʀᴇᴘᴏ
-┋ .ᴀʟɪᴠᴇ
-┋ .ʙᴏᴛɪɴꜰᴏ
-┋ .ꜱᴛᴀᴛᴜꜱ
-┋ .ꜱᴜᴘᴘᴏʀᴛ
-┋ .ᴘɪɴɢ
-┋ .ᴘɪɴɢ2
-┋ .ꜱʏꜱᴛᴇᴍ
-┕───────────────────❒
+*╭──❮ OWNER S ❯*
+│
+│🍁: .update
+│🌴update bot velue 
+│
+│🍁: .restart 
+│🌴restart your bot
+╰────────────⦁
 
-╭────❒⁠⁠⁠⁠ 🎡 *CONVERTER-CMD* 🎡 ❒⁠⁠⁠⁠ 
-┋ .sᴛɪᴄᴋᴇʀ
-┕───────────────────❒
-
-╭────❒⁠⁠⁠⁠ ⛱️ *RANDOM-CMD* ⛱️ ❒⁠⁠⁠⁠ 
-┋ .ᴋɪɴɢ
-┋ .ᴅᴏɢ
-┋ .ᴀɴɪᴍᴇ
-┋ .ᴀɴɪᴍᴇɢɪʀʟ
-┋ .ᴀɴɪᴍᴇɢɪʀʟ1
-┋ .ᴀɴɪᴍᴇɢɪʀʟ2
-┋ .ᴀɴɪᴍᴇɢɪʀʟ3
-┋ .ᴀɴɪᴍᴇɢɪʀʟ4
-┋ .ᴀɴɪᴍᴇɢɪʀʟ5
-┕───────────────────❒
-
-╭────❒⁠⁠⁠⁠ 🏜️ *WALLPAPERS-CMD* 🏜️ ❒⁠⁠⁠⁠ 
-┋ .ɪᴍɢ
-┕───────────────────❒
-
-╭────❒⁠⁠⁠⁠ 🌐 *OTHER-CMD* 🌐 ❒⁠⁠⁠⁠ 
-┋ .ᴛʀᴛ
-┋ .ᴊᴏᴋᴇ
-┋ .ᴍᴏᴠɪᴇ
-┋ .ꜰᴀᴄᴛ
-┋ .ɢɪᴛʜᴜʙꜱᴛᴀʟᴋ
-┋ .ɢᴘᴀꜱꜱ
-┋ .ʜᴀᴄᴋ
-┋ .ǫᴜᴏᴛᴇ
-┋ .ꜱʀᴇᴘᴏ
-┋ .ᴅᴇꜰɪɴᴇ
-┕───────────────────❒
-
-❒⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭▬▭❒⁠⁠⁠⁠
+*╭──❮ CONVERT S ❯*
+│
+│🍁: .sticker
+│🌴convert photo to sticker
+╰────────────⦁
 
 
-> BY LAKSHITHA ISHARA🧡
 
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+> 
+
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+> ᴄʀᴇᴀᴛᴇᴅ ʙʏ LAKSHITHA ISHARA🧡
+
+╰━❁ ═══ ❃•⇆•❃ ═══ ❁━╯
 `
 
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})
