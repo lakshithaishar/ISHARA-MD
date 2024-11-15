@@ -12,17 +12,10 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 let repo =`
 *╭──────────────●●►*
-> *BOT OWNER:*
-*|* *SILENTLOVER432*
 
-> *SILENT-SOBX-MD REPO:*
-*|* *https://github.com/SILENTLOVER40/SILENT-SOBX-MD*
-
-> *SUPPORT GROUP:*
-*|* *https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s*
 *╰──────────────●●►*
 
-> *POWERED BY SILENTLOVER432*
+> *P*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
