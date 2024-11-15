@@ -12,10 +12,10 @@ try{
 let owner =` 
 *HEAR IS BOT OWNER INFO*
 *NAME:-* *USMAN.S*
-*AGE:-* *20 YEARS*
-*PUBLIC NAME:-* *SILENTLOVER*
+*AGE:-* *## YEARS*
+*PUBLIC NAME:-* *ISHARA-MD*
 
-> *BY SILENTLOVER432*
+> *BY LAKSHITHA ISHARA🍁*
 `
 await conn.sendMessage(from, { text: owner ,
   contextInfo: {
@@ -29,11 +29,11 @@ await conn.sendMessage(from, { text: owner ,
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'SILENTLOVER432',
+title: 'LAKSHITHA ISHARA',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://wa.me/+923096287432?text=HY SILENTLOVER4 I'M MSG YOU FROM OWNER ADS" ,
-thumbnailUrl: "https://telegra.ph/file/ffda25ad4092b3328d551.jpg" ,
+sourceUrl: "https://wa.me/+94776406272?text=HY LAKSHITHA" ,
+thumbnailUrl: "https://i.postimg.cc/Z553vPvx/LK.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
