@@ -75,7 +75,7 @@ let search = await yts(q)
 let link = search.all[0].url
 let desc = `
 *╭──────────●●►*
-_*🍁 ISHARA-MD VIDEO DOWNLOADER ♻️*_
+_*🍁 ISHARA-MD VIDEO DOWNLOADER 🧡*_
 *╰──────────●●►*
 
  *🐱 TITLE:* ${search.all[0].title}
@@ -103,7 +103,7 @@ await conn.sendMessage(from,{image:{url: search.all[0].thumbnail},caption:desc},
 await conn.sendMessage(from, {
   video: {url: data.result.downloadLink},
 mimetype: "video/mp4",
- fileName: `${data.result.title}.mp4`,caption: `*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ ···⁴³²* 👩‍💻`}, { quoted: mek })
+ fileName: `${data.result.title}.mp4`,caption: `*© BY Lakshitha Ishara🧡`}, { quoted: mek })
 
 }catch(e){
     console.log(e)
