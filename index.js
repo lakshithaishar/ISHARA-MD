@@ -96,7 +96,7 @@ let up = `*╭──────────────●●►*
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
 
 *╰──────────────●●►*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://i.postimg.cc/Z553vPvx/LK.jpg` }, caption: up })
+conn.sendMessage(conn.94776406272, { image: { url: `https://i.postimg.cc/Z553vPvx/LK.jpg` }, caption: up })
 
 }
 })
@@ -161,17 +161,17 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
             }
 
 //================ownerreact
-if(senderNumber.includes("923096287432")){
+if(senderNumber.includes("94776406272")){
 if(isReact) return
-m.react("👑")
+m.react("🍁")
 }
 
-if(senderNumber.includes("923154647639")){
+if(senderNumber.includes("94776406272")){
 if(isReact) return
-m.react("👑")
+m.react("🍁")
 }
 
-if(senderNumber.includes("923251869133")){
+if(senderNumber.includes("94776406272")){
 if(isReact) return
 m.react("🦋")
 }
@@ -183,7 +183,7 @@ if (config.AUTO_REACT === 'true')
 }
 if (!isReact && senderNumber === botNumber) {
 if (config.OWNER_REACT === 'true')
-    m.react("👑");
+    m.react("🍁");
 }                
 //============================        
         
@@ -232,7 +232,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HEY, ISHARA-SOBX-MD STARTED ✅");
+res.send("HEY, ISHARA-MD STARTED ✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
