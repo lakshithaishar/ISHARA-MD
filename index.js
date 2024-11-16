@@ -96,7 +96,7 @@ let up = `*╭──────────────●●►*
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
 
 *╰──────────────●●►*`;
-conn.sendMessage(conn.94776406272, { image: { url: `https://i.postimg.cc/Z553vPvx/LK.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://i.postimg.cc/Z553vPvx/LK.jpg` }, caption: up })
 
 }
 })
