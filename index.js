@@ -84,7 +84,7 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('ISHARA-MD CONNECTED TO WHATSAPP ENJOY ✅')
+console.log('ISHARA-MD CONNECTED TO WHATSAPP ENJOY 🍁✅')
 
 let up = `*╭──────────────●●►*
 > *ISHARA MD BOT CONNECTED SUCCESSFULLY🌴*
@@ -93,7 +93,7 @@ let up = `*╭──────────────●●►*
 
 >*THANKS FOR USING ISHARA-MD*😊
 
-*YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
+>*YOUR BOT ACTIVE NOW ENJOY🍁🌴🧡*\n\n*PREFIX: ${prefix}*
 
 *╰──────────────●●►*`;
 conn.sendMessage(conn.user.id, { image: { url: `https://i.postimg.cc/Z553vPvx/LK.jpg` }, caption: up })
@@ -179,7 +179,7 @@ m.react("🦋")
 //AutoReact 
 if (!isReact && senderNumber !== botNumber) {
 if (config.AUTO_REACT === 'true')
-    m.react("💖");
+    m.react("🌴");
 }
 if (!isReact && senderNumber === botNumber) {
 if (config.OWNER_REACT === 'true')
