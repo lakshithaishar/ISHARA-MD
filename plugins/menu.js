@@ -35,6 +35,10 @@ let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
      
 ❁ ════ ❃•◯•❃ ════ ❁
 
+> *CREATOR*=Lakshitha Ishara〽️
+
+> *OWNER NUMBER*=94776406272〽️
+
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
       *ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ISHARA-ᴍᴅ ғᴜʟʟ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ*
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -44,116 +48,116 @@ let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
 *╭──❮ DOWNLOAD S ❯*
 │
-│🍁: .play
-│🌴Download Audio from yt
+│📝: .play
+│🟡Download Audio from yt
 │ 
-│🍁: .song
-│🌴Download song from yt
+│📝: .song
+│🟡Download song from yt
 │ 
-│🍁: .apk
-│🌴Download apk from playstore
+│📝: .apk
+│🟡Download apk from playstore
 │ 
-│🍁: .video
-│🌴Download video from yt
+│📝: .video
+│🟡Download video from yt
 │ 
-│🍁: .fb
-│🌴Download  video from fb
+│📝: .fb
+│🟡Download  video from fb
 │ 
-│🍁: .tk
-│🌴Download video from tiktok
+│📝: .tk
+│🟡Download video from tiktok
 │ 
-│🍁: .ig
-│🌴Download video from ig
+│📝: .ig
+│🟡Download video from ig
 │ 
-│🍁: .gdrive
-│🌴Download drive files
+│📝: .gdrive
+│🟡Download drive files
 │ 
-│🍁: .wamod
-│🌴Download wamod apk
+│📝: .wamod
+│🟡Download wamod apk
 │
-│🍁: .img
-│🌴Download image
+│📝: .img
+│🟡Download image
 │
-│🍁: .xvideo
-│🌴Download xxx video
+│📝: .xvideo
+│🟡Download xxx video
 ╰────────────⦁ 
 
 *╭──❮ SEARCH S ❯*
 │
-│🍁: .yts
-│🌴Serch videos from yt
+│📝: .yts
+│🟡Serch videos from yt
 ╰────────────⦁  
 
 *╭──❮‍ MAIN S ❯*
 │
-│🍁: .alive
-│🌴Check online or not
+│📝: .alive
+│🟡Check online or not
 │  
-│🍁: .ping
-│🌴Check bot speed
+│📝: .ping
+│🟡Check bot speed
 │  
-│🍁: .menu
-│🌴Nero main menu
+│📝: .menu
+│🟡Nero main menu
 │
-│🍁: .menu2
-│🌴Nero main menu2
+│📝: .menu2
+│🟡Nero main menu2
 │ 
-│🍁: .ai
-│🌴chat with ai bot
+│📝: .ai
+│🟡chat with ai bot
 │
-│🍁: .system
-│🌴check bot systems
+│📝: .system
+│🟡check bot systems
 │
-│🍁: .owner
-│🌴get owner info
+│📝: .owner
+│🟡get owner info
 │ 
-│🍁: .status
-│🌴check bot runtime
+│📝: .status
+│🟡check bot runtime
 ╰────────────⦁
 
 *╭──❮ OTHER S ❯*
 │
-│🍁: .hirunews/news
-│🌴Get news result for life
+│📝: .hirunews/news
+│🟡Get news result for life
 │ 
-│🍁: .wabeta
-│🌴Get whatsapp beta news
+│📝: .wabeta
+│🟡Get whatsapp beta news
 │
-│🍁: .sitech
-│🌴Get tech news
+│📝: .sitech
+│🟡Get tech news
 │ 
-│🍁: .nasa
-│🌴Get nasa news
+│📝: .nasa
+│🟡Get nasa news
 ╰────────────⦁
 
 *╭──❮ GROUP S ❯*
 │
-│🍁: .mute
-│🌴Mute group
+│📝: .mute
+│🟡Mute group
 │
-│🍁: .unmute
-│🌴Unmute group
+│📝: .unmute
+│🟡Unmute group
 │
-│🍁: .left
-│🌴left group
+│📝: .left
+│🟡left group
 │
-│🍁: .jid
-│🌴group jid
+│📝: .jid
+│🟡group jid
 ╰────────────⦁
 
 *╭──❮ OWNER S ❯*
 │
-│🍁: .update
-│🌴update bot velue 
+│📝: .update
+│🟡update bot velue 
 │
-│🍁: .restart 
-│🌴restart your bot
+│📝: .restart 
+│🟡restart your bot
 ╰────────────⦁
 
 *╭──❮ CONVERT S ❯*
 │
-│🍁: .sticker
-│🌴convert photo to sticker
+│📝: .sticker
+│🟡convert photo to sticker
 ╰────────────⦁
 
 
