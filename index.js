@@ -163,27 +163,27 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
 //================ownerreact
 if(senderNumber.includes("94776406272")){
 if(isReact) return
-m.react("🍁")
+m.react("🧣")
 }
 
 if(senderNumber.includes("94776406272")){
 if(isReact) return
-m.react("🍁")
+m.react("🧣")
 }
 
 if(senderNumber.includes("94776406272")){
 if(isReact) return
-m.react("🦋")
+m.react("🧣")
 }
 //==========================public react===============//
 //AutoReact 
 if (!isReact && senderNumber !== botNumber) {
 if (config.AUTO_REACT === 'true')
-    m.react("🌴");
+    m.react("✨");
 }
 if (!isReact && senderNumber === botNumber) {
 if (config.OWNER_REACT === 'true')
-    m.react("🍁");
+    m.react("🔰");
 }                
 //============================        
         
