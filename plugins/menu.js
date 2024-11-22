@@ -164,7 +164,7 @@ let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> https://github.com/Ishara2010/ISHARA-MD-V1
+> https://github.com/Ishara2011/ISHARA-MD
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
